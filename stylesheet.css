@@ -7,11 +7,15 @@ ul {
   float:  right;
   display: block;
   margin-top: -100px;
+  
+  
 
 }
 li {
   display:  inline;
   padding:  5;
+  
+  
 }
 
 .header a, img {
@@ -19,6 +23,8 @@ li {
   color: black;
   font-family:  arial,sans-serif;
   font-size: 13;
+  vertical-align: middle;
+
 }
 a:hover {
   text-decoration: underline;
